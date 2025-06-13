@@ -29,7 +29,7 @@ Founded by **Mr. Abdeljabar EDDAHI**.
 
 <p align="center" style="margin-bottom: 0;">
   <img 
-    src="https://maghrebsolidarite.com/wp-content/uploads/2023/06/cropped-ams-removebg-preview.png" 
+    src="logoams.png" 
     alt="AMS Logo" 
     width="160" 
     style="background-color: white; padding: 20px; border-radius: 12px;"
