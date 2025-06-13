@@ -27,26 +27,28 @@ dedicated to creating meaningful change across the Maghreb region.
 
 Founded by **Mr. Abdeljabar EDDAHI**.
 
-<p align="center">
-  <a href="https://maghrebsolidarite.com" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://maghrebsolidarite.com/wp-content/uploads/2023/07/cropped-p1h592ieqh1mi118cv1nfgcqn18ph4-0.png" 
-      alt="Maghreb Solidarité Logo" 
-      width="160"
-      style="background-color: white; padding: 20px; border-radius: 12px;"
-    />
-    <br />
-    <strong>Maghreb Solidarité</strong>
-  </a>
+<p align="center" style="margin-bottom: 0;">
+  <img 
+    src="https://maghrebsolidarite.com/wp-content/uploads/2023/06/cropped-ams-removebg-preview.png" 
+    alt="AMS Logo" 
+    width="160" 
+    style="background-color: white; padding: 20px; border-radius: 12px;"
+  />
 </p>
 
-<p align="center">
-  <img 
-    src="ams.png" 
-    alt="Maghreb Solidarité Website Preview" 
-    width="700" 
-    style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
-  />
+<p align="center" style="font-weight: bold; font-size: 1.2em; margin-top: 4px;">
+  <span style="color:#0505BC;">Association</span><span style="color:#EB160E;"> Maghreb</span><span style="color:#3AC405;"> Solidarité</span>
+</p>
+
+<p align="center" style="margin-top: 40px;">
+  <a href="https://maghrebsolidarite.com" target="_blank" style="text-decoration: none;">
+    <img 
+      src="ams.png" 
+      alt="Maghreb Solidarité Website Preview" 
+      width="700" 
+      style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); cursor: pointer;" 
+    />
+  </a>
 </p>
 
 <p align="center">
