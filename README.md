@@ -30,7 +30,7 @@ Proud member of the nonprofit association:
       src="https://maghrebsolidarite.com/wp-content/uploads/2023/07/cropped-p1h592ieqh1mi118cv1nfgcqn18ph4-0.png" 
       alt="Maghreb Solidarité Logo" 
       width="160"
-      style="background-color: white; padding: 10px; border-radius: 12px;"
+      style="background-color: white; padding: 100px; border-radius: 12px;"
     />
     <br />
     <strong>Maghreb Solidarité</strong>
