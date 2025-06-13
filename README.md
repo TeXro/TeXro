@@ -26,9 +26,12 @@ Proud member of the nonprofit association:
 
 <p align="center">
   <a href="https://maghrebsolidarite.com" target="_blank">
-    <div style="background-color: white; padding: 10px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1); display: inline-block;">
-      <img src="https://maghrebsolidarite.com/wp-content/uploads/2023/07/cropped-p1h592ieqh1mi118cv1nfgcqn18ph4-0.png" alt="Maghreb Solidarité Logo" width="160"/>
-    </div>
+    <img 
+      src="https://maghrebsolidarite.com/wp-content/uploads/2023/07/cropped-p1h592ieqh1mi118cv1nfgcqn18ph4-0.png" 
+      alt="Maghreb Solidarité Logo" 
+      width="160"
+      style="background-color: white; padding: 10px; border-radius: 12px;"
+    />
     <br />
     <strong>Maghreb Solidarité</strong>
   </a>
