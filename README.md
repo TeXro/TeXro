@@ -22,10 +22,10 @@ Curious by nature and constantly learning — always building something new.
 
 ### 🤝 Community & Impact
 
-Proud member of the nonprofit association:
+I'm proud to be a member of the nonprofit association dedicated to creating meaningful change across the Maghreb region:
 
 <p align="center">
-  <a href="https://maghrebsolidarite.com" target="_blank">
+  <a href="https://maghrebsolidarite.com" target="_blank" style="text-decoration: none;">
     <img 
       src="https://maghrebsolidarite.com/wp-content/uploads/2023/07/cropped-p1h592ieqh1mi118cv1nfgcqn18ph4-0.png" 
       alt="Maghreb Solidarité Logo" 
@@ -36,12 +36,6 @@ Proud member of the nonprofit association:
     <strong>Maghreb Solidarité</strong>
   </a>
 </p>
-
-Together, we work to create meaningful change across the Maghreb region.
-
----
-
-### 💻 Website Preview
 
 <p align="center">
   <img 
