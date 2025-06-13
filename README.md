@@ -25,7 +25,7 @@ Curious by nature and constantly learning — always building something new.
 I'm proud to be a member of the nonprofit association **A.M.S (Association Maghreb Solidarité)**,  
 dedicated to creating meaningful change across the Maghreb region.  
 
-The association is led by **Mr. Abdeljabar EDDAHI**.
+Founded by **Mr. Abdeljabar EDDAHI**.
 
 <p align="center">
   <a href="https://maghrebsolidarite.com" target="_blank" style="text-decoration: none;">
