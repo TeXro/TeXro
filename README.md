@@ -30,7 +30,7 @@ Proud member of the nonprofit association:
       src="https://maghrebsolidarite.com/wp-content/uploads/2023/07/cropped-p1h592ieqh1mi118cv1nfgcqn18ph4-0.png" 
       alt="Maghreb Solidarité Logo" 
       width="160"
-      style="background-color: white; padding: 100px; border-radius: 12px;"
+      style="background-color: white; padding: 20px; border-radius: 12px;"
     />
     <br />
     <strong>Maghreb Solidarité</strong>
@@ -41,4 +41,19 @@ Together, we work to create meaningful change across the Maghreb region.
 
 ---
 
-<!-- Optional: Add sections like Tech Stack, Projects, or Contact -->
+### 💻 Website Preview
+
+<p align="center">
+  <img 
+    src="ams.png" 
+    alt="Maghreb Solidarité Website Preview" 
+    width="700" 
+    style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
+  />
+</p>
+
+<p align="center">
+  <em>Homepage preview of <a href="https://maghrebsolidarite.com" target="_blank">maghrebsolidarite.com</a></em>
+</p>
+
+---
