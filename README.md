@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center"><em>📍 Proud student at 42 — learning, building, and breaking things with code.</em></p>
+<p align="center"><em>📍 Proud student at 1337-Benguerir — learning, building, and breaking things with code.</em></p>
 
 ---
 
