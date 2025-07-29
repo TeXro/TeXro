@@ -40,16 +40,6 @@ Founded by **Mr. Abdeljabar EDDAHI**.
   <span style="color:#0505BC;">Association</span><span style="color:#EB160E;"> Maghreb</span><span style="color:#3AC405;"> Solidarité</span>
 </p>
 
-<p align="center" style="margin-top: 40px;">
-  <a href="https://maghrebsolidarite.com" target="_blank" style="text-decoration: none;">
-    <img 
-      src="ams.png" 
-      alt="Maghreb Solidarité Website Preview" 
-      width="700" 
-      style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); cursor: pointer;" 
-    />
-  </a>
-</p>
 
 <p align="center">
   <em>Homepage preview of <a href="https://maghrebsolidarite.com" target="_blank">maghrebsolidarite.com</a></em>
